@@ -1,0 +1,50 @@
+/* ProgressPage.css */
+.progress-page {
+  padding: 50px;
+}
+
+.progress-page h2 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.progress-tracker {
+  margin-bottom: 30px;
+}
+
+.progress-tracker h3 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.progress-tracker ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.progress-tracker li {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.progress-tracker li span {
+  font-weight: bold;
+  color: #28a745;
+}
+
+.progress-tracker li button {
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.progress-tracker li button:hover {
+  background-color: #c82333;
+}

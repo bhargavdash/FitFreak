@@ -1,0 +1,71 @@
+/* ChallengePage.css */
+.challenge-page {
+  padding: 50px;
+}
+
+.challenge-page h2 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.challenge-form {
+  margin-bottom: 30px;
+}
+
+.challenge-form input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.challenge-form button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.challenge-form button:hover {
+  background-color: #218838;
+}
+
+.challenge-list {
+  margin-bottom: 30px;
+}
+
+.challenge-list h3 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.challenge-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.challenge-list li {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.challenge-list li button {
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.challenge-list li button:hover {
+  background-color: #c82333;
+}
